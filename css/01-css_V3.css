@@ -1,0 +1,26 @@
+p, h1 {
+	color: red;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+ul li{
+	color: blue;
+}
+
+ul li a{
+	color: green;
+}
+
+a:hover{
+	color: pink;
+	font-size: 50px;
+}
+
+p:last-of-type{
+	color: purple;
+}
+
+a:not(.destacado){
+	font-size: 30px;
+}
